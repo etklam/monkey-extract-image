@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.4
 // @description  Extract all image links (including plain text URLs) from a webpage and display them on a single new page with options to open or download.
-// @author       Grok
+// @author       Elliot | ETKLAM@Github
 // @match        *://*/*
 // @grant        window.open
 // ==/UserScript==
